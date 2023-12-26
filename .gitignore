@@ -31,5 +31,11 @@ yarn-error.*
 # local env files
 .env*.local
 
+
 # typescript
 *.tsbuildinfo
+
+.datapassS1.js
+.datapassS2.js
+.datapassMain.js
+.Calculator.js
